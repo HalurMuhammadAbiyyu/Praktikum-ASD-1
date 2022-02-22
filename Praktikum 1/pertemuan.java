@@ -10,7 +10,7 @@ public static void main(String[] args) {
     int tugas = sc.nextInt();
     System.out.print("Masukkan nilai UTS : ");
     int uts = sc.nextInt();
-    System.out.print("Masukkan nilai UAS: ");c
+    System.out.print("Masukkan nilai UAS: ");
     int uas = sc.nextInt();
     float nilaiAkhir;
     String nilaiHuruf;
