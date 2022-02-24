@@ -8,7 +8,7 @@ public class perulangan1 {
         nim = sc.nextInt();
         System.out.println("=====================");
         
-        n = nim - 2041720000;
+        n = nim - 2141720072;
         if(n<10){
              n += 10;
          }
