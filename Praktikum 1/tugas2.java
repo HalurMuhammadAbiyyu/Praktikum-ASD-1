@@ -29,7 +29,7 @@ public class tugas2 {
                 break;
 
                 case 3: 
-                System.out.print("Kecepatannya adalah " + waktu(jK,kec));
+                System.out.print("Waktunya adalah " + waktu(jK,kec));
                 break;
             }
             System.out.println();
