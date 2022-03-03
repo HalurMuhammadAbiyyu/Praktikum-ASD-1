@@ -202,7 +202,7 @@ public class pacmanMain {
 
 ```
 ## Hasil Progaram
-<img src = "kumpulan foto/hasilPacman.png">
+<img src = "kumpulan foto/hasilPacman1.png">
 
 
 
